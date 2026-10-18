@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=header" />
 </p>
 
-<h1 align="center">kdiakis</h1>
+<h1 align="center">kdiakakis</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=future+red+teamer;AI+developer;i+break+things+(legally)" />
@@ -32,7 +32,6 @@ python/  esp32/  panelinies/
 - Learning C++ for a custom ESP32-S3 project
 
 ## contact
-[![Instagram](https://img.shields.io/badge/Instagram-@kdiakis-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kdiakis)
 ![Discord](https://img.shields.io/badge/Discord-cmd__kostas-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 <sub>Security tools here are for learning and for networks I own. Don't be that guy.</sub>
