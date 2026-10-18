@@ -21,6 +21,9 @@ $ ls projects/
 python/  esp32/  panelinies/
 </pre>
 
+## about
+Greek 🇬🇷 developer and student, into security, Python and embedded stuff.
+
 ## stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -28,7 +31,8 @@ python/  esp32/  panelinies/
 ![ESP32](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ## now
-- Finishing my programming exam solutions
+- Finishing my programming exams
+- Building python projects
 - Learning C++ for a custom ESP32-S3 project
 
 ## contact
